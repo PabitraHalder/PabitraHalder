@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/a385b832-f222-4167-91e6-e5590066f0e8)
+
 - 👋 Hi, I’m @PabitraHalder
 - 👀 I’m interested in Backend Development
 - 🌱 I’m currently learning 'thats secret'
