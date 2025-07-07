@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/a385b832-f222-4167-91e6-e5590066f0e8)
+![image](https://github.com/user-attachments/assets/8839f064-7eb9-48ef-8a4f-e98c88ed8bd3)
 
 - 👋 Hi, I’m @PabitraHalder
 - 👀 I’m interested in Backend Development
